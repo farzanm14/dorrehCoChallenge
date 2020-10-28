@@ -14,6 +14,6 @@ export default StyleSheet.create({
         width:'100%'
     },
     mainContainer:{
-        // paddingBottom:10
+        paddingBottom:50
     }
 });
